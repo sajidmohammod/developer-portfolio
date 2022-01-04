@@ -32,6 +32,18 @@ span{
 }
 .top-banner{
     background-image: url(images/top-banner.png);
-    width: 70%;
+    margin-bottom: 30px;
     
+}
+
+#ptr{
+    margin-right: 100px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#jk{
+    margin-top: 80px;
 }
