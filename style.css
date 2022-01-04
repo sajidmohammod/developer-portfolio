@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 40px;
+    color: rgb(255, 115, 0);
+}
+span{
+    color: blueviolet;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+}
+.half img{
+    width:100% ;
+}
+.link-button{
+    text-decoration:none;
+    background-color: rgb(73, 6, 9);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+span{
+    color: cornsilk;
+}
+.saju{
+    color: darkmagenta;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    width: 70%;
+    
+}
